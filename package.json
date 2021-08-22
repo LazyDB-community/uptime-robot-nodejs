@@ -1,7 +1,7 @@
 {
-  "name": "@lazydb_community/uptime-robot-nodejs",
-  "version": "0.0.1",
-  "description": "A truly simple lib for the uptimerobot.com API",
+  "name": "@lazydb_community/uptimerobot",
+  "version": "1.0.0",
+  "description": "A truly easy to use uptimerobot API for nodejs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
