@@ -15,11 +15,5 @@ const UptimeRobotClient = new UptimeRobot('your-api-key');
 
 Then you can use any methods of the uptimerobot.com API v2 like that :  
 
-```javascript
-UptimeRobotClient.newMonitor("friendly name","https://mywebsite.com","1", {}).then(data => {
-  const monitor_id = data.monitor.id;
-  console.log("New monitor created with id ", monitor_id);
-}).catch(error => {
-  console.log(error);
-})
-```
+```![carbon](https://user-images.githubusercontent.com/22132982/163850103-6ae48ad4-edcb-4f1d-8664-8711ad15b4ba.png)
+
